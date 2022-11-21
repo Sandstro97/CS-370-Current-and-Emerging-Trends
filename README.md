@@ -1,4 +1,4 @@
-# CS370
+# CS 370 Current & Emerging Trends
 
 I wrote the code to encompasses the reinforcement learning algorithm by utilizing Keras and Tensorflow to achieve the pathfinding solution, through loops. 
 
